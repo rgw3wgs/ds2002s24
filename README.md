@@ -8,5 +8,5 @@ This repository contains artifacts supporting the DS-2002 Data Science Systems c
 
 ### Instructional Videos: Configuring Your Development Environment
 
-- <a href="https://www.youtube.com/watch?v=xrc7dIO_tXk&list=PL31nix9tC4CWM68-V23Puu793xD7yHdSr&index=7">08 - Intro to MongoDB Atlas in 10 mins | Jumpstart</a>
-- <a href="https://www.youtube.com/watch?v=YBOiX8DwinE&list=PL31nix9tC4CWM68-V23Puu793xD7yHdSr&index=8&t=2s">09 - Compass - The GUI For MongoDB in 10 mins | Jumpstart</a>
+- <a href="https://www.youtube.com/watch?v=xrc7dIO_tXk&list=PL31nix9tC4CWM68-V23Puu793xD7yHdSr&index=7"- Intro to MongoDB Atlas in 10 mins | Jumpstart</a>
+- <a href="https://www.youtube.com/watch?v=YBOiX8DwinE&list=PL31nix9tC4CWM68-V23Puu793xD7yHdSr&index=8&t=2s">- Compass - The GUI For MongoDB in 10 mins | Jumpstart</a>
