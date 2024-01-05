@@ -5,7 +5,7 @@ nav_order: 1
 last_modified_date: 2023-09-07 16:05:00 -0400
 ---
 
-# DS1002 Programming for Data Science
+# DS2002 Programming for Data Science
 
 **University of Virginia School of Data Science**{: .fs-6 .fw-300 }
 
@@ -27,10 +27,10 @@ Successful students will be able to approach fundamental data science tasks prog
 
 ### Instructor
 
-- Name: Neal Magee
-- Email: [nem2p@virginia.edu](mailto:nem2p@virginia.edu)
-- Office: [Elson 163A](https://atlas.fm.virginia.edu/portal/apps/webappviewer/index.html?id=c54aefa568904e018601a0447eb722bf&marker=-78.50335571527344%2C38.03157892371692%2C%2C%2C%2C&markertemplate=%7B%22title%22%3A%22400%20Brandon%20Ave%22%2C%22longitude%22%3A-78.50335571527344%2C%22latitude%22%3A38.03157892371692%2C%22isIncludeShareUrl%22%3Atrue%7D&level=18)
-- Office Hours: Wednesdays 1:00 PM to 2:30 PM. Other times by appointment.
+- Name: Jason Williamson
+- Email: [jpw4ma@virginia.edu](mailto:jpw4map@virginia.edu)
+- Office: [3 Elliewood Ave, Charlottesville, VA 22903 --Above Ragged Mtn](https://www.google.com/maps/place/UVA+School+of+Data+Science/@38.0356302,-78.5031408,17z/data=!3m1!4b1!4m6!3m5!1s0x89b387edba9272d3:0xee426c4650d17e63!8m2!3d38.0356302!4d-78.5005659!16s%2Fg%2F11fqxxbqg_?entry=ttu)
+- Office Hours: Mondays 12:00 PM to 2:00 PM. Other times by appointment.
 
 ### Teaching Assistant
 
